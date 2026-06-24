@@ -31,17 +31,17 @@ This project demonstrates how to build a predictive analytics pipeline using his
 - Reproducible scripts/notebooks to run experiments
 
 ## Dataset:-
-- Source: (Specify dataset source URL or describe where the data comes from)
-- Files included / expected:
-  - data/raw/ (raw/original data)
-  - data/processed/ (cleaned and transformed data)
-- Notes: Add any preprocessing or licensing notes about the dataset here.
+**.**Source: (Specify dataset source URL or describe where the data comes from)
+**.**Files included / expected:
+  **a**data/raw/ (raw/original data)
+  **b**data/processed/ (cleaned and transformed data)
+  **.**Notes: Add any preprocessing or licensing notes about the dataset here.
 ## Outcomes:-
-Data Cleaning & Preprocessing
-Feature Engineering
-Predictive Modeling
-Forecasting Techniques
-Model Evaluation
-Data Visualization
-Business Insight Generation
-Analytical Problem Solving
+**.**Data Cleaning & Preprocessing
+**.**Feature Engineering
+**.**Predictive Modeling
+**.**Forecasting Techniques
+**.**Model Evaluation
+**.**Data Visualization
+**.**Business Insight Generation
+**.**Analytical Problem Solving
